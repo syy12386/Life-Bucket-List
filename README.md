@@ -128,7 +128,7 @@ MIT
 ## 致谢
 
 - 背景音乐：waterfall.mp3
-- 打字机音效：mixkit-typewriter-enter-2863.mp3
+
 
 ---
 
